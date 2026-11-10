@@ -1,0 +1,14 @@
+__pycache__/
+*.py[cod]
+.venv/
+/build/
+/dist/
+*.spec
+*.exe
+/slice_sounds/
+/wallpaper-frames/
+/wallpaper.zip
+*.mp4
+tasks.json
+task_lists.json
+background.jpg
